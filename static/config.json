@@ -18,8 +18,8 @@
     ],
     "startupOptions" : {
         "server": "irc.libera.chat",
-        "port": "6665",
-        "tls": false,
+        "port": "6697",
+        "tls": true,
         "channel": "#python",
         "nick": "SuperLabs-n?",
         "greetingText": "Welcome to SuperLabs IRC!"
