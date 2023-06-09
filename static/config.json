@@ -1,7 +1,7 @@
 {
     "windowTitle": "SuperLabs",
     "startupScreen": "welcome",
-    "kiwiServer": "/webirc/kiwiirc/",
+    "kiwiServer": "https://kiwiirc-five.vercel.app",
     "restricted": false,
     "theme": "Default",
     
