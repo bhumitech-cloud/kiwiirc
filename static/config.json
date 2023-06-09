@@ -1,9 +1,10 @@
 {
     "windowTitle": "Kiwi IRC - The web IRC client",
     "startupScreen": "welcome",
-    "kiwiServer": "https://localdev.clients.kiwiirc.com/webirc/kiwiirc/",
+    "kiwiServer": "https://kiwiirc-five.vercel.app/",
     "restricted": false,
     "theme": "Default",
+    
     "themes": [
         { "name": "Default", "url": "static/themes/default" },
         { "name": "Dark", "url": "static/themes/dark" },
@@ -16,8 +17,11 @@
         { "name": "Elite", "url": "static/themes/elite" }
     ],
     "startupOptions" : {
-        "channel": "#kiwiirc-default",
-        "nick": "kiwi-n?"
+        "server": "irc.liberia.chat",
+        "port": "6697",
+        "tls": true,
+        "channel": "#python",
+        "nick": "SuperLabs-n?"
     },
     "embedly": {
         "key": ""
