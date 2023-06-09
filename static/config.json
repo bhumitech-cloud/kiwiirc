@@ -1,5 +1,5 @@
 {
-    "windowTitle": "Kiwi IRC - The web IRC client",
+    "windowTitle": "SuperLabs",
     "startupScreen": "welcome",
     "kiwiServer": "https://kiwiirc-five.vercel.app/",
     "restricted": false,
