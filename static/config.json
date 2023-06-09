@@ -17,7 +17,7 @@
         { "name": "Elite", "url": "static/themes/elite" }
     ],
     "startupOptions" : {
-        "server": "irc.liberia.chat",
+        "server": "irc.libera.chat",
         "port": "6697",
         "tls": true,
         "channel": "#python",
