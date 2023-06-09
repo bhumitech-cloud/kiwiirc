@@ -21,7 +21,8 @@
         "port": "6665",
         "tls": false,
         "channel": "#python",
-        "nick": "SuperLabs-n?"
+        "nick": "SuperLabs-n?",
+        "greetingText": "Welcome to SuperLabs IRC!"
     },
     "embedly": {
         "key": ""
